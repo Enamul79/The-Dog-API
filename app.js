@@ -12,6 +12,7 @@
    const displayDog = (dogList) =>{
       // console.log(dogList);
       const main = document.getElementById('main');
+      
       // console.log(main);
       const first10Data = dogList.slice(0,10);
       // console.log(first10Data);
